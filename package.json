@@ -1,0 +1,28 @@
+{
+  "name": "react-native-custom-web-view",
+  "version": "1.0.0",
+  "description": "Customized poc for react native web view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadi401/customWebView.git"
+  },
+  "keywords": [
+    "webView",
+    "react native webView",
+  ],
+  "author": "Elle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadi401/customWebView/issues"
+  },
+  "homepage": "https://github.com/aadi401/customWebView#readme",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-webview": "^11.26.1"
+  }
+}
